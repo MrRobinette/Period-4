@@ -55,3 +55,15 @@
 [submodule "Eric_Rasmussen"]
 	path = Eric_Rasmussen
 	url = https://github.com/RasmussenEric/Eric_Rasmussen
+[submodule "Natasha_Rosenthal"]
+	path = Natasha_Rosenthal
+	url = https://github.com/tashirosenthal/Natasha_Rosenthal
+[submodule "MEGHAN_VOSS"]
+	path = MEGHAN_VOSS
+	url = https://github.com/meghanvoss/MEGHAN_VOSS
+[submodule "Alessandra_Yoon"]
+	path = Alessandra_Yoon
+	url = https://github.com/alessandrayoon/Alessandra_Yoon
+[submodule "Xuyang_Zhao"]
+	path = Xuyang_Zhao
+	url = https://github.com/XuyangZhao01/Xuyang_Zhao
