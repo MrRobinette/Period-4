@@ -4,9 +4,6 @@
 [submodule "Quan_Nguyen"]
 	path = Quan_Nguyen
 	url = https://github.com/quan41/Quan_Nguyen
-[submodule "Brian_Kang"]
-	path = Brian_Kang
-	url = https://github.com/Kangb6187/Brian_Kang
 [submodule "MAILYNN_EVANGELISTA"]
 	path = MAILYNN_EVANGELISTA
 	url = https://github.com/mailynnjoyce/MAILYNN_EVANGELISTA
@@ -34,9 +31,6 @@
 [submodule "Eric_LIn"]
 	path = Eric_LIn
 	url = https://github.com/Eric666Lin/Eric_LIn
-[submodule "APCOMPSCI_Semester1"]
-	path = APCOMPSCI_Semester1
-	url = https://github.com/zhanj8512/APCOMPSCI_Semester1
 [submodule "Will_Nute"]
 	path = Will_Nute
 	url = https://github.com/willnute/Will_Nute
