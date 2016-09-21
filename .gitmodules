@@ -1,69 +1,63 @@
-[submodule "Java-Program_San-Lee"]
-	path = Java-Program_San-Lee
-	url = https://github.com/San234/Java-Program_San-Lee
-[submodule "Quan_Nguyen"]
-	path = Quan_Nguyen
-	url = https://github.com/quan41/Quan_Nguyen
+[submodule "BEHREND_JACK"]
+	path = BEHREND_JACK
+	url = https://github.com/jackbehrend/BEHREND_JACK
+[submodule "Brigandi_Maddie"]
+	path = Brigandi_Maddie
+	url = https://github.com/maddiebrigandi/Brigandi_Maddie
+[submodule "Chen_Leon"]
+	path = Chen_Leon
+	url = https://github.com/doubleapple123/Chen_Leon
+[submodule "Brett_Kamrud"]
+	path = Brett_Kamrud
+	url = https://github.com/brkamrud/Brett_Kamrud
+[submodule "RUSHER_DEREK"]
+	path = RUSHER_DEREK
+	url = https://github.com/DerekRusher/RUSHER_DEREK
 [submodule "MAILYNN_EVANGELISTA"]
 	path = MAILYNN_EVANGELISTA
 	url = https://github.com/mailynnjoyce/MAILYNN_EVANGELISTA
+[submodule "Hornilla_Joshua"]
+	path = Hornilla_Joshua
+	url = https://github.com/Opwoa/Hornilla_Joshua
+[submodule "Kang_Brian"]
+	path = Kang_Brian
+	url = https://github.com/Kangb6187/Kang_Brian
+[submodule "Kim_Christine"]
+	path = Kim_Christine
+	url = https://github.com/christinekim1/Kim_Christine
+[submodule "Kuo_Jonathan"]
+	path = Kuo_Jonathan
+	url = https://github.com/jonathan-kuo11/Kuo_Jonathan
+[submodule "Quan_Nguyen"]
+	path = Quan_Nguyen
+	url = https://github.com/quan41/Quan_Nguyen
+[submodule "Rasmussen_Eric"]
+	path = Rasmussen_Eric
+	url = https://github.com/RasmussenEric/Rasmussen_Eric
 [submodule "Issac_Spivak"]
 	path = Issac_Spivak
 	url = https://github.com/issacspivak/Issac_Spivak
-[submodule "Lauren_Zhang"]
-	path = Lauren_Zhang
-	url = https://github.com/laurenzhangg/Lauren_Zhang
-[submodule "KIARA_MCNULTY"]
-	path = KIARA_MCNULTY
-	url = https://github.com/kiaramcnulty/KIARA_MCNULTY
-[submodule "JACK_BEHREND"]
-	path = JACK_BEHREND
-	url = https://github.com/jackbehrend/JACK_BEHREND
-[submodule "Kyle_Xiao"]
-	path = Kyle_Xiao
-	url = https://github.com/kx1999/Kyle_Xiao
-[submodule "Leon-Chen-AP"]
-	path = Leon-Chen-AP
-	url = https://github.com/doubleapple123/Leon-Chen-AP
-[submodule "seanwu368"]
-	path = seanwu368
-	url = https://github.com/seanwu368/seanwu368
-[submodule "Eric_LIn"]
-	path = Eric_LIn
-	url = https://github.com/Eric666Lin/Eric_LIn
-[submodule "Will_Nute"]
-	path = Will_Nute
-	url = https://github.com/willnute/Will_Nute
-[submodule "Christine_Kim"]
-	path = Christine_Kim
-	url = https://github.com/christinekim1/Christine_Kim
-[submodule "Maddie_Brigandi"]
-	path = Maddie_Brigandi
-	url = https://github.com/maddiebrigandi/Maddie_Brigandi
-[submodule "Jacob_Giedd"]
-	path = Jacob_Giedd
-	url = https://github.com/JacobGiedd/Jacob_Giedd
-[submodule "JOSHUA_HORNILLA"]
-	path = JOSHUA_HORNILLA
-	url = https://github.com/Opwoa/JOSHUA_HORNILLA
-[submodule "Rachana_Joshi"]
-	path = Rachana_Joshi
-	url = https://github.com/joshir7768/Rachana_Joshi
-[submodule "Brian_Kang"]
-	path = Brian_Kang
-	url = https://github.com/Kangb6187/Brian_Kang
-[submodule "Eric_Rasmussen"]
-	path = Eric_Rasmussen
-	url = https://github.com/RasmussenEric/Eric_Rasmussen
-[submodule "Natasha_Rosenthal"]
-	path = Natasha_Rosenthal
-	url = https://github.com/tashirosenthal/Natasha_Rosenthal
-[submodule "MEGHAN_VOSS"]
-	path = MEGHAN_VOSS
-	url = https://github.com/meghanvoss/MEGHAN_VOSS
-[submodule "Alessandra_Yoon"]
-	path = Alessandra_Yoon
-	url = https://github.com/alessandrayoon/Alessandra_Yoon
-[submodule "Xuyang_Zhao"]
-	path = Xuyang_Zhao
-	url = https://github.com/XuyangZhao01/Xuyang_Zhao
+[submodule "VOSS_MEGHAN"]
+	path = VOSS_MEGHAN
+	url = https://github.com/meghanvoss/VOSS_MEGHAN
+[submodule "Wu_Sean"]
+	path = Wu_Sean
+	url = https://github.com/seanwu368/Wu_Sean
+[submodule "Xiao_Kyle"]
+	path = Xiao_Kyle
+	url = https://github.com/kx1999/Xiao_Kyle
+[submodule "Yoon_Alessandra"]
+	path = Yoon_Alessandra
+	url = https://github.com/alessandrayoon/Yoon_Alessandra
+[submodule "Jason_Zhan"]
+	path = Jason_Zhan
+	url = https://github.com/zhanj8512/Jason_Zhan
+[submodule "Zhang_Lauren"]
+	path = Zhang_Lauren
+	url = https://github.com/laurenzhangg/Zhang_Lauren
+[submodule "Zhao_Xuyang"]
+	path = Zhao_Xuyang
+	url = https://github.com/XuyangZhao01/Zhao_Xuyang
+[submodule "Yuhao_Zhuang"]
+	path = Yuhao_Zhuang
+	url = https://github.com/YuhaoZhuang/Yuhao_Zhuang
