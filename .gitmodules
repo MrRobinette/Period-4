@@ -7,9 +7,6 @@
 [submodule "RUSHER_DEREK"]
 	path = RUSHER_DEREK
 	url = https://github.com/DerekRusher/RUSHER_DEREK
-[submodule "MAILYNN_EVANGELISTA"]
-	path = MAILYNN_EVANGELISTA
-	url = https://github.com/mailynnjoyce/MAILYNN_EVANGELISTA
 [submodule "Hornilla_Joshua"]
 	path = Hornilla_Joshua
 	url = https://github.com/Opwoa/Hornilla_Joshua
@@ -19,12 +16,6 @@
 [submodule "Kim_Christine"]
 	path = Kim_Christine
 	url = https://github.com/christinekim1/Kim_Christine
-[submodule "Kuo_Jonathan"]
-	path = Kuo_Jonathan
-	url = https://github.com/jonathan-kuo11/Kuo_Jonathan
-[submodule "Quan_Nguyen"]
-	path = Quan_Nguyen
-	url = https://github.com/quan41/Quan_Nguyen
 [submodule "Rasmussen_Eric"]
 	path = Rasmussen_Eric
 	url = https://github.com/RasmussenEric/Rasmussen_Eric
@@ -43,9 +34,6 @@
 [submodule "Yoon_Alessandra"]
 	path = Yoon_Alessandra
 	url = https://github.com/alessandrayoon/Yoon_Alessandra
-[submodule "Jason_Zhan"]
-	path = Jason_Zhan
-	url = https://github.com/zhanj8512/Jason_Zhan
 [submodule "Zhang_Lauren"]
 	path = Zhang_Lauren
 	url = https://github.com/laurenzhangg/Zhang_Lauren
@@ -70,3 +58,45 @@
 [submodule "EVANGELISTA_MAILYNN"]
 	path = EVANGELISTA_MAILYNN
 	url = https://github.com/mailynnjoyce/EVANGELISTA_MAILYNN
+[submodule "Gangiredla_Deepthi"]
+	path = Gangiredla_Deepthi
+	url = https://github.com/deepthigg/Gangiredla_Deepthi
+[submodule "Giedd_Jacob"]
+	path = Giedd_Jacob
+	url = https://github.com/JacobGiedd/Giedd_Jacob
+[submodule "Hammer_Keith"]
+	path = Hammer_Keith
+	url = https://github.com/Its-Hammertime/Hammer_Keith
+[submodule "Joshi_Rachana"]
+	path = Joshi_Rachana
+	url = https://github.com/joshir7768/Joshi_Rachana
+[submodule "Kan_Reagan"]
+	path = Kan_Reagan
+	url = https://github.com/reagankan/Kan_Reagan
+[submodule "Lee_San"]
+	path = Lee_San
+	url = https://github.com/San234/Lee_San
+[submodule "Lin_Eric"]
+	path = Lin_Eric
+	url = https://github.com/Eric666Lin/Lin_Eric
+[submodule "MCNULTY_KIARA"]
+	path = MCNULTY_KIARA
+	url = https://github.com/kiaramcnulty/MCNULTY_KIARA
+[submodule "Nute_Will"]
+	path = Nute_Will
+	url = https://github.com/willnute/Nute_Will
+[submodule "Parsons_Derek"]
+	path = Parsons_Derek
+	url = https://github.com/DerekParson/Parsons_Derek
+[submodule "Rosenthal_Natasha"]
+	path = Rosenthal_Natasha
+	url = https://github.com/tashirosenthal/Rosenthal_Natasha
+[submodule "Spivak_Issac"]
+	path = Spivak_Issac
+	url = https://github.com/issacspivak/Spivak_Issac
+[submodule "yeh_Ethan"]
+	path = yeh_Ethan
+	url = https://github.com/yehe7777/yeh_Ethan
+[submodule "You_Carine"]
+	path = You_Carine
+	url = https://github.com/carineyou/You_Carine
