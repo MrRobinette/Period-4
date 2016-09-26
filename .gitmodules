@@ -7,9 +7,6 @@
 [submodule "Chen_Leon"]
 	path = Chen_Leon
 	url = https://github.com/doubleapple123/Chen_Leon
-[submodule "Brett_Kamrud"]
-	path = Brett_Kamrud
-	url = https://github.com/brkamrud/Brett_Kamrud
 [submodule "RUSHER_DEREK"]
 	path = RUSHER_DEREK
 	url = https://github.com/DerekRusher/RUSHER_DEREK
@@ -61,3 +58,6 @@
 [submodule "Yuhao_Zhuang"]
 	path = Yuhao_Zhuang
 	url = https://github.com/YuhaoZhuang/Yuhao_Zhuang
+[submodule "Kamrud_Brett"]
+	path = Kamrud_Brett
+	url = https://github.com/brkamrud/Kamrud_Brett
