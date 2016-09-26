@@ -4,9 +4,6 @@
 [submodule "Brigandi_Maddie"]
 	path = Brigandi_Maddie
 	url = https://github.com/maddiebrigandi/Brigandi_Maddie
-[submodule "Chen_Leon"]
-	path = Chen_Leon
-	url = https://github.com/doubleapple123/Chen_Leon
 [submodule "RUSHER_DEREK"]
 	path = RUSHER_DEREK
 	url = https://github.com/DerekRusher/RUSHER_DEREK
