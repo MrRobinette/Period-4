@@ -61,3 +61,12 @@
 [submodule "Chen_Leon"]
 	path = Chen_Leon
 	url = https://github.com/doubleapple123/Chen_Leon
+[submodule "CHANG_KATHLEEN"]
+	path = CHANG_KATHLEEN
+	url = https://github.com/kathleenchang/CHANG_KATHLEEN
+[submodule "Epstein_Michael"]
+	path = Epstein_Michael
+	url = https://github.com/mepstein3639/Epstein_Michael
+[submodule "EVANGELISTA_MAILYNN"]
+	path = EVANGELISTA_MAILYNN
+	url = https://github.com/mailynnjoyce/EVANGELISTA_MAILYNN
