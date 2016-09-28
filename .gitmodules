@@ -145,3 +145,6 @@
 [submodule "You_Carine"]
 	path = You_Carine
 	url = https://github.com/carineyou/You_Carine
+[submodule "Zhuang_Yuhao"]
+	path = Zhuang_Yuhao
+	url = https://github.com/YuhaoZhuang/Zhuang_Yuhao
