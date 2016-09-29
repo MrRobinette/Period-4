@@ -22,9 +22,6 @@
 [submodule "Rasmussen_Eric"]
 	path = Rasmussen_Eric
 	url = https://github.com/RasmussenEric/Rasmussen_Eric
-[submodule "Issac_Spivak"]
-	path = Issac_Spivak
-	url = https://github.com/issacspivak/Issac_Spivak
 [submodule "VOSS_MEGHAN"]
 	path = VOSS_MEGHAN
 	url = https://github.com/meghanvoss/VOSS_MEGHAN
@@ -145,3 +142,6 @@
 [submodule "Zhuang_Yuhao"]
 	path = Zhuang_Yuhao
 	url = https://github.com/YuhaoZhuang/Zhuang_Yuhao
+[submodule "KODUKULA_ROHITH"]
+	path = KODUKULA_ROHITH
+	url = https://github.com/MagicMan123/KODUKULA_ROHITH
