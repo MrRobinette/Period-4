@@ -76,9 +76,6 @@
 [submodule "Joshi_Rachana"]
 	path = Joshi_Rachana
 	url = https://github.com/joshir7768/Joshi_Rachana
-[submodule "ROHITH_KODUKULA"]
-	path = ROHITH_KODUKULA
-	url = https://github.com/MagicMan123/ROHITH_KODUKULA
 [submodule "Kamrud_Brett"]
 	path = Kamrud_Brett
 	url = https://github.com/brkamrud/Kamrud_Brett
