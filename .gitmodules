@@ -16,9 +16,6 @@
 [submodule "Kim_Christine"]
 	path = Kim_Christine
 	url = https://github.com/christinekim1/Kim_Christine
-[submodule "Quan_Nguyen"]
-	path = Quan_Nguyen
-	url = https://github.com/quan41/Quan_Nguyen
 [submodule "Rasmussen_Eric"]
 	path = Rasmussen_Eric
 	url = https://github.com/RasmussenEric/Rasmussen_Eric
