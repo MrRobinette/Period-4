@@ -139,3 +139,6 @@
 [submodule "KODUKULA_ROHITH"]
 	path = KODUKULA_ROHITH
 	url = https://github.com/MagicMan123/KODUKULA_ROHITH
+[submodule "Nguyen_Quan"]
+	path = Nguyen_Quan
+	url = https://github.com/quan41/Nguyen_Quan
